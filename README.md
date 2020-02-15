@@ -2,7 +2,7 @@
 
 This repository makes it possible to use [play-services-resolver](https://github.com/googlesamples/unity-jar-resolver) with Unity Package Manager (UPM)
 
-![play-services-resolver](https://i.imgur.com/IqIbtxR.png)
+![play-services-resolver](https://i.imgur.com/vE6XQhQ.png)
 
 ## Installation
 
