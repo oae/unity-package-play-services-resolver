@@ -11,7 +11,7 @@ This repository makes it possible to use [play-services-resolver](https://github
   ```json
   {
     "dependencies": {
-      "io.elhan.play-services-resolver": "https://github.com/oae/unity-package-play-services-resolver.git#0.0.1",
+      "io.elhan.play-services-resolver": "https://github.com/oae/unity-package-play-services-resolver.git#v0.1.0",
     }
   }
   ```
